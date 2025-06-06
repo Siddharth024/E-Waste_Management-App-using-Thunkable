@@ -103,8 +103,6 @@ Feel free to fork this repository, explore the Thunkable project, and suggest im
 ## 👤 Author
 
 **Siddharth Chaudhary**  
-📫 [LinkedIn](https://www.linkedin.com/in/siddharth-chaudhary-6a4345251/) | ✉️ [Email](sssidhuchaudhry@gmail.com:)
-
----
+📫 [LinkedIn](https://www.linkedin.com/in/siddharth-chaudhary-6a4345251/) | ✉️ [Email](sssidhuchaudhry@gmail.com)
 
 ---
